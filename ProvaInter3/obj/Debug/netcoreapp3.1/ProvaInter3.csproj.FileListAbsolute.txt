@@ -1,0 +1,13 @@
+C:\ProjetosPUC\LaboratorioCSharp\ProvaInter3\bin\Debug\netcoreapp3.1\ProvaInter3.exe
+C:\ProjetosPUC\LaboratorioCSharp\ProvaInter3\bin\Debug\netcoreapp3.1\ProvaInter3.deps.json
+C:\ProjetosPUC\LaboratorioCSharp\ProvaInter3\bin\Debug\netcoreapp3.1\ProvaInter3.runtimeconfig.json
+C:\ProjetosPUC\LaboratorioCSharp\ProvaInter3\bin\Debug\netcoreapp3.1\ProvaInter3.runtimeconfig.dev.json
+C:\ProjetosPUC\LaboratorioCSharp\ProvaInter3\bin\Debug\netcoreapp3.1\ProvaInter3.dll
+C:\ProjetosPUC\LaboratorioCSharp\ProvaInter3\bin\Debug\netcoreapp3.1\ProvaInter3.pdb
+C:\ProjetosPUC\LaboratorioCSharp\ProvaInter3\obj\Debug\netcoreapp3.1\ProvaInter3.csprojAssemblyReference.cache
+C:\ProjetosPUC\LaboratorioCSharp\ProvaInter3\obj\Debug\netcoreapp3.1\ProvaInter3.AssemblyInfoInputs.cache
+C:\ProjetosPUC\LaboratorioCSharp\ProvaInter3\obj\Debug\netcoreapp3.1\ProvaInter3.AssemblyInfo.cs
+C:\ProjetosPUC\LaboratorioCSharp\ProvaInter3\obj\Debug\netcoreapp3.1\ProvaInter3.csproj.CoreCompileInputs.cache
+C:\ProjetosPUC\LaboratorioCSharp\ProvaInter3\obj\Debug\netcoreapp3.1\ProvaInter3.dll
+C:\ProjetosPUC\LaboratorioCSharp\ProvaInter3\obj\Debug\netcoreapp3.1\ProvaInter3.pdb
+C:\ProjetosPUC\LaboratorioCSharp\ProvaInter3\obj\Debug\netcoreapp3.1\ProvaInter3.genruntimeconfig.cache

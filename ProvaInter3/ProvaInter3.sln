@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProvaInter3", "ProvaInter3.csproj", "{253EBF8C-0983-4A1F-AE45-7F0F8DEAFD0B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{253EBF8C-0983-4A1F-AE45-7F0F8DEAFD0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{253EBF8C-0983-4A1F-AE45-7F0F8DEAFD0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{253EBF8C-0983-4A1F-AE45-7F0F8DEAFD0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{253EBF8C-0983-4A1F-AE45-7F0F8DEAFD0B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {81CEB8FA-F3AB-4513-A92A-8D1971C2BD29}
+	EndGlobalSection
+EndGlobal

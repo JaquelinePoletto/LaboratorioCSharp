@@ -1,0 +1,13 @@
+C:\ProjetosPUC\LaboratorioCSharp\AprendendoStruct\UsaStruct\bin\Debug\netcoreapp3.1\UsaStruct.exe
+C:\ProjetosPUC\LaboratorioCSharp\AprendendoStruct\UsaStruct\bin\Debug\netcoreapp3.1\UsaStruct.deps.json
+C:\ProjetosPUC\LaboratorioCSharp\AprendendoStruct\UsaStruct\bin\Debug\netcoreapp3.1\UsaStruct.runtimeconfig.json
+C:\ProjetosPUC\LaboratorioCSharp\AprendendoStruct\UsaStruct\bin\Debug\netcoreapp3.1\UsaStruct.runtimeconfig.dev.json
+C:\ProjetosPUC\LaboratorioCSharp\AprendendoStruct\UsaStruct\bin\Debug\netcoreapp3.1\UsaStruct.dll
+C:\ProjetosPUC\LaboratorioCSharp\AprendendoStruct\UsaStruct\bin\Debug\netcoreapp3.1\UsaStruct.pdb
+C:\ProjetosPUC\LaboratorioCSharp\AprendendoStruct\UsaStruct\obj\Debug\netcoreapp3.1\UsaStruct.csprojAssemblyReference.cache
+C:\ProjetosPUC\LaboratorioCSharp\AprendendoStruct\UsaStruct\obj\Debug\netcoreapp3.1\UsaStruct.AssemblyInfoInputs.cache
+C:\ProjetosPUC\LaboratorioCSharp\AprendendoStruct\UsaStruct\obj\Debug\netcoreapp3.1\UsaStruct.AssemblyInfo.cs
+C:\ProjetosPUC\LaboratorioCSharp\AprendendoStruct\UsaStruct\obj\Debug\netcoreapp3.1\UsaStruct.csproj.CoreCompileInputs.cache
+C:\ProjetosPUC\LaboratorioCSharp\AprendendoStruct\UsaStruct\obj\Debug\netcoreapp3.1\UsaStruct.dll
+C:\ProjetosPUC\LaboratorioCSharp\AprendendoStruct\UsaStruct\obj\Debug\netcoreapp3.1\UsaStruct.pdb
+C:\ProjetosPUC\LaboratorioCSharp\AprendendoStruct\UsaStruct\obj\Debug\netcoreapp3.1\UsaStruct.genruntimeconfig.cache

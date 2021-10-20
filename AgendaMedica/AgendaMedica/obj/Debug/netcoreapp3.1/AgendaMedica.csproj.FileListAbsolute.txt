@@ -1,0 +1,14 @@
+C:\ProjetosPUC\LaboratorioCSharp\AgendaMedica\AgendaMedica\bin\Debug\netcoreapp3.1\AgendaMedica.exe
+C:\ProjetosPUC\LaboratorioCSharp\AgendaMedica\AgendaMedica\bin\Debug\netcoreapp3.1\AgendaMedica.deps.json
+C:\ProjetosPUC\LaboratorioCSharp\AgendaMedica\AgendaMedica\bin\Debug\netcoreapp3.1\AgendaMedica.runtimeconfig.json
+C:\ProjetosPUC\LaboratorioCSharp\AgendaMedica\AgendaMedica\bin\Debug\netcoreapp3.1\AgendaMedica.runtimeconfig.dev.json
+C:\ProjetosPUC\LaboratorioCSharp\AgendaMedica\AgendaMedica\bin\Debug\netcoreapp3.1\AgendaMedica.dll
+C:\ProjetosPUC\LaboratorioCSharp\AgendaMedica\AgendaMedica\bin\Debug\netcoreapp3.1\AgendaMedica.pdb
+C:\ProjetosPUC\LaboratorioCSharp\AgendaMedica\AgendaMedica\obj\Debug\netcoreapp3.1\AgendaMedica.AssemblyInfoInputs.cache
+C:\ProjetosPUC\LaboratorioCSharp\AgendaMedica\AgendaMedica\obj\Debug\netcoreapp3.1\AgendaMedica.AssemblyInfo.cs
+C:\ProjetosPUC\LaboratorioCSharp\AgendaMedica\AgendaMedica\obj\Debug\netcoreapp3.1\AgendaMedica.csproj.CoreCompileInputs.cache
+C:\ProjetosPUC\LaboratorioCSharp\AgendaMedica\AgendaMedica\obj\Debug\netcoreapp3.1\AgendaMedica.dll
+C:\ProjetosPUC\LaboratorioCSharp\AgendaMedica\AgendaMedica\obj\Debug\netcoreapp3.1\AgendaMedica.pdb
+C:\ProjetosPUC\LaboratorioCSharp\AgendaMedica\AgendaMedica\obj\Debug\netcoreapp3.1\AgendaMedica.genruntimeconfig.cache
+C:\ProjetosPUC\LaboratorioCSharp\AgendaMedica\AgendaMedica\obj\Debug\netcoreapp3.1\AgendaMedica.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProjetosPUC\LaboratorioCSharp\AgendaMedica\AgendaMedica\obj\Debug\netcoreapp3.1\AgendaMedica.csproj.AssemblyReference.cache

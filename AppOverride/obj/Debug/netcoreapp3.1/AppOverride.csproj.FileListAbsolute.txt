@@ -1,0 +1,14 @@
+C:\ProjetosPUC\LaboratorioCSharp\AppOverride\obj\Debug\netcoreapp3.1\AppOverride.csproj.AssemblyReference.cache
+C:\ProjetosPUC\LaboratorioCSharp\AppOverride\obj\Debug\netcoreapp3.1\AppOverride.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProjetosPUC\LaboratorioCSharp\AppOverride\obj\Debug\netcoreapp3.1\AppOverride.AssemblyInfoInputs.cache
+C:\ProjetosPUC\LaboratorioCSharp\AppOverride\obj\Debug\netcoreapp3.1\AppOverride.AssemblyInfo.cs
+C:\ProjetosPUC\LaboratorioCSharp\AppOverride\obj\Debug\netcoreapp3.1\AppOverride.csproj.CoreCompileInputs.cache
+C:\ProjetosPUC\LaboratorioCSharp\AppOverride\bin\Debug\netcoreapp3.1\AppOverride.exe
+C:\ProjetosPUC\LaboratorioCSharp\AppOverride\bin\Debug\netcoreapp3.1\AppOverride.deps.json
+C:\ProjetosPUC\LaboratorioCSharp\AppOverride\bin\Debug\netcoreapp3.1\AppOverride.runtimeconfig.json
+C:\ProjetosPUC\LaboratorioCSharp\AppOverride\bin\Debug\netcoreapp3.1\AppOverride.runtimeconfig.dev.json
+C:\ProjetosPUC\LaboratorioCSharp\AppOverride\bin\Debug\netcoreapp3.1\AppOverride.dll
+C:\ProjetosPUC\LaboratorioCSharp\AppOverride\bin\Debug\netcoreapp3.1\AppOverride.pdb
+C:\ProjetosPUC\LaboratorioCSharp\AppOverride\obj\Debug\netcoreapp3.1\AppOverride.dll
+C:\ProjetosPUC\LaboratorioCSharp\AppOverride\obj\Debug\netcoreapp3.1\AppOverride.pdb
+C:\ProjetosPUC\LaboratorioCSharp\AppOverride\obj\Debug\netcoreapp3.1\AppOverride.genruntimeconfig.cache

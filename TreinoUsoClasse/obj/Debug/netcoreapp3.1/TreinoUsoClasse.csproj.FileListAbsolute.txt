@@ -1,0 +1,14 @@
+C:\ProjetosPUC\LaboratorioCSharp\TreinoUsoClasse\bin\Debug\netcoreapp3.1\TreinoUsoClasse.exe
+C:\ProjetosPUC\LaboratorioCSharp\TreinoUsoClasse\bin\Debug\netcoreapp3.1\TreinoUsoClasse.deps.json
+C:\ProjetosPUC\LaboratorioCSharp\TreinoUsoClasse\bin\Debug\netcoreapp3.1\TreinoUsoClasse.runtimeconfig.json
+C:\ProjetosPUC\LaboratorioCSharp\TreinoUsoClasse\bin\Debug\netcoreapp3.1\TreinoUsoClasse.runtimeconfig.dev.json
+C:\ProjetosPUC\LaboratorioCSharp\TreinoUsoClasse\bin\Debug\netcoreapp3.1\TreinoUsoClasse.dll
+C:\ProjetosPUC\LaboratorioCSharp\TreinoUsoClasse\bin\Debug\netcoreapp3.1\TreinoUsoClasse.pdb
+C:\ProjetosPUC\LaboratorioCSharp\TreinoUsoClasse\obj\Debug\netcoreapp3.1\TreinoUsoClasse.AssemblyInfoInputs.cache
+C:\ProjetosPUC\LaboratorioCSharp\TreinoUsoClasse\obj\Debug\netcoreapp3.1\TreinoUsoClasse.AssemblyInfo.cs
+C:\ProjetosPUC\LaboratorioCSharp\TreinoUsoClasse\obj\Debug\netcoreapp3.1\TreinoUsoClasse.csproj.CoreCompileInputs.cache
+C:\ProjetosPUC\LaboratorioCSharp\TreinoUsoClasse\obj\Debug\netcoreapp3.1\TreinoUsoClasse.dll
+C:\ProjetosPUC\LaboratorioCSharp\TreinoUsoClasse\obj\Debug\netcoreapp3.1\TreinoUsoClasse.pdb
+C:\ProjetosPUC\LaboratorioCSharp\TreinoUsoClasse\obj\Debug\netcoreapp3.1\TreinoUsoClasse.genruntimeconfig.cache
+C:\ProjetosPUC\LaboratorioCSharp\TreinoUsoClasse\obj\Debug\netcoreapp3.1\TreinoUsoClasse.csproj.AssemblyReference.cache
+C:\ProjetosPUC\LaboratorioCSharp\TreinoUsoClasse\obj\Debug\netcoreapp3.1\TreinoUsoClasse.GeneratedMSBuildEditorConfig.editorconfig

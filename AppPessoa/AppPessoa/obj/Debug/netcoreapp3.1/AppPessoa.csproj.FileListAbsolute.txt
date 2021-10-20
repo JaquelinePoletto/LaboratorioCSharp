@@ -1,0 +1,14 @@
+C:\ProjetosPUC\LaboratorioCSharp\AppPessoa\AppPessoa\bin\Debug\netcoreapp3.1\AppPessoa.exe
+C:\ProjetosPUC\LaboratorioCSharp\AppPessoa\AppPessoa\bin\Debug\netcoreapp3.1\AppPessoa.deps.json
+C:\ProjetosPUC\LaboratorioCSharp\AppPessoa\AppPessoa\bin\Debug\netcoreapp3.1\AppPessoa.runtimeconfig.json
+C:\ProjetosPUC\LaboratorioCSharp\AppPessoa\AppPessoa\bin\Debug\netcoreapp3.1\AppPessoa.runtimeconfig.dev.json
+C:\ProjetosPUC\LaboratorioCSharp\AppPessoa\AppPessoa\bin\Debug\netcoreapp3.1\AppPessoa.dll
+C:\ProjetosPUC\LaboratorioCSharp\AppPessoa\AppPessoa\bin\Debug\netcoreapp3.1\AppPessoa.pdb
+C:\ProjetosPUC\LaboratorioCSharp\AppPessoa\AppPessoa\obj\Debug\netcoreapp3.1\AppPessoa.csproj.AssemblyReference.cache
+C:\ProjetosPUC\LaboratorioCSharp\AppPessoa\AppPessoa\obj\Debug\netcoreapp3.1\AppPessoa.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProjetosPUC\LaboratorioCSharp\AppPessoa\AppPessoa\obj\Debug\netcoreapp3.1\AppPessoa.AssemblyInfoInputs.cache
+C:\ProjetosPUC\LaboratorioCSharp\AppPessoa\AppPessoa\obj\Debug\netcoreapp3.1\AppPessoa.AssemblyInfo.cs
+C:\ProjetosPUC\LaboratorioCSharp\AppPessoa\AppPessoa\obj\Debug\netcoreapp3.1\AppPessoa.csproj.CoreCompileInputs.cache
+C:\ProjetosPUC\LaboratorioCSharp\AppPessoa\AppPessoa\obj\Debug\netcoreapp3.1\AppPessoa.dll
+C:\ProjetosPUC\LaboratorioCSharp\AppPessoa\AppPessoa\obj\Debug\netcoreapp3.1\AppPessoa.pdb
+C:\ProjetosPUC\LaboratorioCSharp\AppPessoa\AppPessoa\obj\Debug\netcoreapp3.1\AppPessoa.genruntimeconfig.cache

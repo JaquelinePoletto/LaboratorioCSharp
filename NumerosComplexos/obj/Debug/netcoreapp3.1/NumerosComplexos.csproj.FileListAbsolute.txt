@@ -1,0 +1,13 @@
+C:\ProjetosPUC\LaboratorioCSharp\NumerosComplexos\bin\Debug\netcoreapp3.1\NumerosComplexos.exe
+C:\ProjetosPUC\LaboratorioCSharp\NumerosComplexos\bin\Debug\netcoreapp3.1\NumerosComplexos.deps.json
+C:\ProjetosPUC\LaboratorioCSharp\NumerosComplexos\bin\Debug\netcoreapp3.1\NumerosComplexos.runtimeconfig.json
+C:\ProjetosPUC\LaboratorioCSharp\NumerosComplexos\bin\Debug\netcoreapp3.1\NumerosComplexos.runtimeconfig.dev.json
+C:\ProjetosPUC\LaboratorioCSharp\NumerosComplexos\bin\Debug\netcoreapp3.1\NumerosComplexos.dll
+C:\ProjetosPUC\LaboratorioCSharp\NumerosComplexos\bin\Debug\netcoreapp3.1\NumerosComplexos.pdb
+C:\ProjetosPUC\LaboratorioCSharp\NumerosComplexos\obj\Debug\netcoreapp3.1\NumerosComplexos.csprojAssemblyReference.cache
+C:\ProjetosPUC\LaboratorioCSharp\NumerosComplexos\obj\Debug\netcoreapp3.1\NumerosComplexos.AssemblyInfoInputs.cache
+C:\ProjetosPUC\LaboratorioCSharp\NumerosComplexos\obj\Debug\netcoreapp3.1\NumerosComplexos.AssemblyInfo.cs
+C:\ProjetosPUC\LaboratorioCSharp\NumerosComplexos\obj\Debug\netcoreapp3.1\NumerosComplexos.csproj.CoreCompileInputs.cache
+C:\ProjetosPUC\LaboratorioCSharp\NumerosComplexos\obj\Debug\netcoreapp3.1\NumerosComplexos.dll
+C:\ProjetosPUC\LaboratorioCSharp\NumerosComplexos\obj\Debug\netcoreapp3.1\NumerosComplexos.pdb
+C:\ProjetosPUC\LaboratorioCSharp\NumerosComplexos\obj\Debug\netcoreapp3.1\NumerosComplexos.genruntimeconfig.cache

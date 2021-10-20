@@ -1,0 +1,13 @@
+C:\ProjetosPUC\LaboratorioCSharp\AppInstancia\obj\Debug\netcoreapp3.1\AppInstancia.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProjetosPUC\LaboratorioCSharp\AppInstancia\obj\Debug\netcoreapp3.1\AppInstancia.AssemblyInfoInputs.cache
+C:\ProjetosPUC\LaboratorioCSharp\AppInstancia\obj\Debug\netcoreapp3.1\AppInstancia.AssemblyInfo.cs
+C:\ProjetosPUC\LaboratorioCSharp\AppInstancia\obj\Debug\netcoreapp3.1\AppInstancia.csproj.CoreCompileInputs.cache
+C:\ProjetosPUC\LaboratorioCSharp\AppInstancia\bin\Debug\netcoreapp3.1\AppInstancia.exe
+C:\ProjetosPUC\LaboratorioCSharp\AppInstancia\bin\Debug\netcoreapp3.1\AppInstancia.deps.json
+C:\ProjetosPUC\LaboratorioCSharp\AppInstancia\bin\Debug\netcoreapp3.1\AppInstancia.runtimeconfig.json
+C:\ProjetosPUC\LaboratorioCSharp\AppInstancia\bin\Debug\netcoreapp3.1\AppInstancia.runtimeconfig.dev.json
+C:\ProjetosPUC\LaboratorioCSharp\AppInstancia\bin\Debug\netcoreapp3.1\AppInstancia.dll
+C:\ProjetosPUC\LaboratorioCSharp\AppInstancia\bin\Debug\netcoreapp3.1\AppInstancia.pdb
+C:\ProjetosPUC\LaboratorioCSharp\AppInstancia\obj\Debug\netcoreapp3.1\AppInstancia.dll
+C:\ProjetosPUC\LaboratorioCSharp\AppInstancia\obj\Debug\netcoreapp3.1\AppInstancia.pdb
+C:\ProjetosPUC\LaboratorioCSharp\AppInstancia\obj\Debug\netcoreapp3.1\AppInstancia.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\ProjetosPUC\LaboratorioCSharp\TiposGenericos\bin\Debug\netcoreapp3.1\TiposGenericos.exe
+C:\ProjetosPUC\LaboratorioCSharp\TiposGenericos\bin\Debug\netcoreapp3.1\TiposGenericos.deps.json
+C:\ProjetosPUC\LaboratorioCSharp\TiposGenericos\bin\Debug\netcoreapp3.1\TiposGenericos.runtimeconfig.json
+C:\ProjetosPUC\LaboratorioCSharp\TiposGenericos\bin\Debug\netcoreapp3.1\TiposGenericos.runtimeconfig.dev.json
+C:\ProjetosPUC\LaboratorioCSharp\TiposGenericos\bin\Debug\netcoreapp3.1\TiposGenericos.dll
+C:\ProjetosPUC\LaboratorioCSharp\TiposGenericos\bin\Debug\netcoreapp3.1\TiposGenericos.pdb
+C:\ProjetosPUC\LaboratorioCSharp\TiposGenericos\obj\Debug\netcoreapp3.1\TiposGenericos.csproj.AssemblyReference.cache
+C:\ProjetosPUC\LaboratorioCSharp\TiposGenericos\obj\Debug\netcoreapp3.1\TiposGenericos.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProjetosPUC\LaboratorioCSharp\TiposGenericos\obj\Debug\netcoreapp3.1\TiposGenericos.AssemblyInfoInputs.cache
+C:\ProjetosPUC\LaboratorioCSharp\TiposGenericos\obj\Debug\netcoreapp3.1\TiposGenericos.AssemblyInfo.cs
+C:\ProjetosPUC\LaboratorioCSharp\TiposGenericos\obj\Debug\netcoreapp3.1\TiposGenericos.csproj.CoreCompileInputs.cache
+C:\ProjetosPUC\LaboratorioCSharp\TiposGenericos\obj\Debug\netcoreapp3.1\TiposGenericos.dll
+C:\ProjetosPUC\LaboratorioCSharp\TiposGenericos\obj\Debug\netcoreapp3.1\TiposGenericos.pdb
+C:\ProjetosPUC\LaboratorioCSharp\TiposGenericos\obj\Debug\netcoreapp3.1\TiposGenericos.genruntimeconfig.cache

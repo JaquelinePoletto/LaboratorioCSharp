@@ -1,0 +1,13 @@
+C:\ProjetosPUC\LaboratorioCSharp\AgenciaCarro\bin\Debug\netcoreapp3.1\AgenciaCarro.exe
+C:\ProjetosPUC\LaboratorioCSharp\AgenciaCarro\bin\Debug\netcoreapp3.1\AgenciaCarro.deps.json
+C:\ProjetosPUC\LaboratorioCSharp\AgenciaCarro\bin\Debug\netcoreapp3.1\AgenciaCarro.runtimeconfig.json
+C:\ProjetosPUC\LaboratorioCSharp\AgenciaCarro\bin\Debug\netcoreapp3.1\AgenciaCarro.runtimeconfig.dev.json
+C:\ProjetosPUC\LaboratorioCSharp\AgenciaCarro\bin\Debug\netcoreapp3.1\AgenciaCarro.dll
+C:\ProjetosPUC\LaboratorioCSharp\AgenciaCarro\bin\Debug\netcoreapp3.1\AgenciaCarro.pdb
+C:\ProjetosPUC\LaboratorioCSharp\AgenciaCarro\obj\Debug\netcoreapp3.1\AgenciaCarro.AssemblyInfoInputs.cache
+C:\ProjetosPUC\LaboratorioCSharp\AgenciaCarro\obj\Debug\netcoreapp3.1\AgenciaCarro.AssemblyInfo.cs
+C:\ProjetosPUC\LaboratorioCSharp\AgenciaCarro\obj\Debug\netcoreapp3.1\AgenciaCarro.csproj.CoreCompileInputs.cache
+C:\ProjetosPUC\LaboratorioCSharp\AgenciaCarro\obj\Debug\netcoreapp3.1\AgenciaCarro.dll
+C:\ProjetosPUC\LaboratorioCSharp\AgenciaCarro\obj\Debug\netcoreapp3.1\AgenciaCarro.pdb
+C:\ProjetosPUC\LaboratorioCSharp\AgenciaCarro\obj\Debug\netcoreapp3.1\AgenciaCarro.genruntimeconfig.cache
+C:\ProjetosPUC\LaboratorioCSharp\AgenciaCarro\obj\Debug\netcoreapp3.1\AgenciaCarro.csprojAssemblyReference.cache

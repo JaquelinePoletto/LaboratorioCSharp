@@ -1,0 +1,13 @@
+C:\ProjetosPUC\LaboratorioCSharp\AppCriaMenu\bin\Debug\netcoreapp3.1\AppCriaMenu.exe
+C:\ProjetosPUC\LaboratorioCSharp\AppCriaMenu\bin\Debug\netcoreapp3.1\AppCriaMenu.deps.json
+C:\ProjetosPUC\LaboratorioCSharp\AppCriaMenu\bin\Debug\netcoreapp3.1\AppCriaMenu.runtimeconfig.json
+C:\ProjetosPUC\LaboratorioCSharp\AppCriaMenu\bin\Debug\netcoreapp3.1\AppCriaMenu.runtimeconfig.dev.json
+C:\ProjetosPUC\LaboratorioCSharp\AppCriaMenu\bin\Debug\netcoreapp3.1\AppCriaMenu.dll
+C:\ProjetosPUC\LaboratorioCSharp\AppCriaMenu\bin\Debug\netcoreapp3.1\AppCriaMenu.pdb
+C:\ProjetosPUC\LaboratorioCSharp\AppCriaMenu\obj\Debug\netcoreapp3.1\AppCriaMenu.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProjetosPUC\LaboratorioCSharp\AppCriaMenu\obj\Debug\netcoreapp3.1\AppCriaMenu.AssemblyInfoInputs.cache
+C:\ProjetosPUC\LaboratorioCSharp\AppCriaMenu\obj\Debug\netcoreapp3.1\AppCriaMenu.AssemblyInfo.cs
+C:\ProjetosPUC\LaboratorioCSharp\AppCriaMenu\obj\Debug\netcoreapp3.1\AppCriaMenu.csproj.CoreCompileInputs.cache
+C:\ProjetosPUC\LaboratorioCSharp\AppCriaMenu\obj\Debug\netcoreapp3.1\AppCriaMenu.dll
+C:\ProjetosPUC\LaboratorioCSharp\AppCriaMenu\obj\Debug\netcoreapp3.1\AppCriaMenu.pdb
+C:\ProjetosPUC\LaboratorioCSharp\AppCriaMenu\obj\Debug\netcoreapp3.1\AppCriaMenu.genruntimeconfig.cache

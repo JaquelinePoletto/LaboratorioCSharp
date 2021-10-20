@@ -1,0 +1,14 @@
+C:\ProjetosPUC\LaboratorioCSharp\AppProduto\bin\Debug\netcoreapp3.1\AppProduto.exe
+C:\ProjetosPUC\LaboratorioCSharp\AppProduto\bin\Debug\netcoreapp3.1\AppProduto.deps.json
+C:\ProjetosPUC\LaboratorioCSharp\AppProduto\bin\Debug\netcoreapp3.1\AppProduto.runtimeconfig.json
+C:\ProjetosPUC\LaboratorioCSharp\AppProduto\bin\Debug\netcoreapp3.1\AppProduto.runtimeconfig.dev.json
+C:\ProjetosPUC\LaboratorioCSharp\AppProduto\bin\Debug\netcoreapp3.1\AppProduto.dll
+C:\ProjetosPUC\LaboratorioCSharp\AppProduto\bin\Debug\netcoreapp3.1\AppProduto.pdb
+C:\ProjetosPUC\LaboratorioCSharp\AppProduto\obj\Debug\netcoreapp3.1\AppProduto.csproj.AssemblyReference.cache
+C:\ProjetosPUC\LaboratorioCSharp\AppProduto\obj\Debug\netcoreapp3.1\AppProduto.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProjetosPUC\LaboratorioCSharp\AppProduto\obj\Debug\netcoreapp3.1\AppProduto.AssemblyInfoInputs.cache
+C:\ProjetosPUC\LaboratorioCSharp\AppProduto\obj\Debug\netcoreapp3.1\AppProduto.AssemblyInfo.cs
+C:\ProjetosPUC\LaboratorioCSharp\AppProduto\obj\Debug\netcoreapp3.1\AppProduto.csproj.CoreCompileInputs.cache
+C:\ProjetosPUC\LaboratorioCSharp\AppProduto\obj\Debug\netcoreapp3.1\AppProduto.dll
+C:\ProjetosPUC\LaboratorioCSharp\AppProduto\obj\Debug\netcoreapp3.1\AppProduto.pdb
+C:\ProjetosPUC\LaboratorioCSharp\AppProduto\obj\Debug\netcoreapp3.1\AppProduto.genruntimeconfig.cache

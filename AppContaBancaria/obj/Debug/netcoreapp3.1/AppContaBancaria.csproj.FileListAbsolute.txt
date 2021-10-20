@@ -1,0 +1,14 @@
+C:\ProjetosPUC\LaboratorioCSharp\AppContaBancaria\bin\Debug\netcoreapp3.1\AppContaBancaria.exe
+C:\ProjetosPUC\LaboratorioCSharp\AppContaBancaria\bin\Debug\netcoreapp3.1\AppContaBancaria.deps.json
+C:\ProjetosPUC\LaboratorioCSharp\AppContaBancaria\bin\Debug\netcoreapp3.1\AppContaBancaria.runtimeconfig.json
+C:\ProjetosPUC\LaboratorioCSharp\AppContaBancaria\bin\Debug\netcoreapp3.1\AppContaBancaria.runtimeconfig.dev.json
+C:\ProjetosPUC\LaboratorioCSharp\AppContaBancaria\bin\Debug\netcoreapp3.1\AppContaBancaria.dll
+C:\ProjetosPUC\LaboratorioCSharp\AppContaBancaria\bin\Debug\netcoreapp3.1\AppContaBancaria.pdb
+C:\ProjetosPUC\LaboratorioCSharp\AppContaBancaria\obj\Debug\netcoreapp3.1\AppContaBancaria.csproj.AssemblyReference.cache
+C:\ProjetosPUC\LaboratorioCSharp\AppContaBancaria\obj\Debug\netcoreapp3.1\AppContaBancaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProjetosPUC\LaboratorioCSharp\AppContaBancaria\obj\Debug\netcoreapp3.1\AppContaBancaria.AssemblyInfoInputs.cache
+C:\ProjetosPUC\LaboratorioCSharp\AppContaBancaria\obj\Debug\netcoreapp3.1\AppContaBancaria.AssemblyInfo.cs
+C:\ProjetosPUC\LaboratorioCSharp\AppContaBancaria\obj\Debug\netcoreapp3.1\AppContaBancaria.csproj.CoreCompileInputs.cache
+C:\ProjetosPUC\LaboratorioCSharp\AppContaBancaria\obj\Debug\netcoreapp3.1\AppContaBancaria.dll
+C:\ProjetosPUC\LaboratorioCSharp\AppContaBancaria\obj\Debug\netcoreapp3.1\AppContaBancaria.pdb
+C:\ProjetosPUC\LaboratorioCSharp\AppContaBancaria\obj\Debug\netcoreapp3.1\AppContaBancaria.genruntimeconfig.cache

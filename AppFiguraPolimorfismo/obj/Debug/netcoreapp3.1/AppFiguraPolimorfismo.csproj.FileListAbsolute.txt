@@ -1,0 +1,14 @@
+C:\ProjetosPUC\LaboratorioCSharp\AppFiguraPolimorfismo\obj\Debug\netcoreapp3.1\AppFiguraPolimorfismo.csproj.AssemblyReference.cache
+C:\ProjetosPUC\LaboratorioCSharp\AppFiguraPolimorfismo\obj\Debug\netcoreapp3.1\AppFiguraPolimorfismo.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProjetosPUC\LaboratorioCSharp\AppFiguraPolimorfismo\obj\Debug\netcoreapp3.1\AppFiguraPolimorfismo.AssemblyInfoInputs.cache
+C:\ProjetosPUC\LaboratorioCSharp\AppFiguraPolimorfismo\obj\Debug\netcoreapp3.1\AppFiguraPolimorfismo.AssemblyInfo.cs
+C:\ProjetosPUC\LaboratorioCSharp\AppFiguraPolimorfismo\obj\Debug\netcoreapp3.1\AppFiguraPolimorfismo.csproj.CoreCompileInputs.cache
+C:\ProjetosPUC\LaboratorioCSharp\AppFiguraPolimorfismo\bin\Debug\netcoreapp3.1\AppFiguraPolimorfismo.exe
+C:\ProjetosPUC\LaboratorioCSharp\AppFiguraPolimorfismo\bin\Debug\netcoreapp3.1\AppFiguraPolimorfismo.deps.json
+C:\ProjetosPUC\LaboratorioCSharp\AppFiguraPolimorfismo\bin\Debug\netcoreapp3.1\AppFiguraPolimorfismo.runtimeconfig.json
+C:\ProjetosPUC\LaboratorioCSharp\AppFiguraPolimorfismo\bin\Debug\netcoreapp3.1\AppFiguraPolimorfismo.runtimeconfig.dev.json
+C:\ProjetosPUC\LaboratorioCSharp\AppFiguraPolimorfismo\bin\Debug\netcoreapp3.1\AppFiguraPolimorfismo.dll
+C:\ProjetosPUC\LaboratorioCSharp\AppFiguraPolimorfismo\bin\Debug\netcoreapp3.1\AppFiguraPolimorfismo.pdb
+C:\ProjetosPUC\LaboratorioCSharp\AppFiguraPolimorfismo\obj\Debug\netcoreapp3.1\AppFiguraPolimorfismo.dll
+C:\ProjetosPUC\LaboratorioCSharp\AppFiguraPolimorfismo\obj\Debug\netcoreapp3.1\AppFiguraPolimorfismo.pdb
+C:\ProjetosPUC\LaboratorioCSharp\AppFiguraPolimorfismo\obj\Debug\netcoreapp3.1\AppFiguraPolimorfismo.genruntimeconfig.cache
